@@ -1,0 +1,86 @@
+*****************************************
+*          BIOS Release Notice           *    
+*****************************************
+Release Date:
+    2023/06/28
+
+BIOS Version:
+    5.10
+
+BIOS Checksum:
+    3BAE
+
+BIOS Description:
+     1.Add show more bios item for user setting
+     2.support chinanese language
+=============================================
+
+Release Date:
+    2023/05/06
+
+BIOS Version:
+    5.08
+
+BIOS Checksum:
+    3BB7
+
+BIOS Description:
+     1.Set default UMA size to 2G
+=============================================
+Release Date:
+    2023/02/10
+
+BIOS Version:
+    5.07
+
+BIOS Checksum:
+    046F
+
+BIOS Description:
+     1.Modify secure boot default on
+=============================================
+Release Date:
+    2022/08/29
+
+BIOS Version:
+    5.06
+
+BIOS Checksum:
+    DBF6
+
+BIOS Description:
+     1.Limit system config to 25W
+--------------------------------------------------
+
+Release Date:
+    2022/08/29
+
+BIOS Version:
+    5.06
+
+BIOS Checksum:
+    78FD
+
+BIOS Description:
+     1.modify tcc to 87
+     2.modify FAN1 PWM4 to 105
+--------------------------------------------------
+
+Release Date:
+    2022/08/12
+
+BIOS Version:
+    5.05
+
+BIOS Description:
+     1.Update crb code to version 22
+     2.modify dmi system Manufacturer and BaseBoard Manufacturer
+--------------------------------------------------
+Release Date:
+    2022/07/25
+
+BIOS Version:
+    5.04
+
+BIOS Description:
+     1.first release for UM580

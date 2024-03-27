@@ -1,0 +1,1 @@
+AfuEfix64.efi UM580D.rom /p /b /n /k /x /reboot
