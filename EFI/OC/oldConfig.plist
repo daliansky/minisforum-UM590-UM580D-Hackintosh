@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>#Build Date</key>
-	<string>6-12-2024</string>
+	<string>11-9-2023</string>
 	<key>#Maker by</key>
-	<string>minisforum UM580D/UM590</string>
+	<string>minisforum UM580D</string>
 	<key>#OpenCore Version</key>
-	<string>v1.0.0 Release</string>
+	<string>v0.9.6 Release</string>
 	<key>#Posted on</key>
 	<string>黑果小兵的部落阁 https://blog.daliansky.net</string>
 	<key>ACPI</key>
@@ -209,7 +209,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AMFIPass</string>
 				<key>MaxKernel</key>
-				<string>23.9.9</string>
+				<string></string>
 				<key>MinKernel</key>
 				<string>23.0.0</string>
 				<key>PlistPath</key>
